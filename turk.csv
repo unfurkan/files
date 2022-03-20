@@ -1,249 +1,249 @@
 test,iso2,name
-a,TR,Türkiye
-a,VI,ABD Virgin Adaları
-a,AF,Afganistan
-a,AX,Aland Adaları
-a,DE,Almanya
-a,US,Amerika Birleşik Devletleri
-a,UM,Amerika Birleşik Devletleri Küçük Dış Adaları
-a,AS,Amerikan Samoası
-a,AD,Andora
-a,AO,Angola
-a,AI,Anguilla
-a,AQ,Antarktika
-a,AG,Antigua ve Barbuda
-a,AR,Arjantin
-a,AL,Arnavutluk
-a,AW,Aruba
-a,QU,Avrupa Birliği
-a,AU,Avustralya
-a,AT,Avusturya
-a,AZ,Azerbaycan
-a,BS,Bahamalar
-a,BH,Bahreyn
-a,BD,Bangladeş
-a,BB,Barbados
-a,EH,Batı Sahara
-a,BZ,Belize
-a,BE,Belçika
-a,BJ,Benin
-a,BM,Bermuda
-a,BY,Beyaz Rusya
-a,BT,Bhutan
-a,ZZ,Bilinmeyen veya Geçersiz Bölge
-a,AE,Birleşik Arap Emirlikleri
-a,GB,Birleşik Krallık
-a,BO,Bolivya
-a,BA,Bosna Hersek
-a,BW,Botsvana
-a,BV,Bouvet Adası
-a,BR,Brezilya
-a,BN,Brunei
-a,BG,Bulgaristan
-a,BF,Burkina Faso
-a,BI,Burundi
-a,CV,Cape Verde
-a,GI,Cebelitarık
-a,DZ,Cezayir
-a,CX,Christmas Adası
-a,DJ,Cibuti
-a,CC,Cocos Adaları
-a,CK,Cook Adaları
-a,TD,Çad
-a,CZ,Çek Cumhuriyeti
-a,CN,Çin
-a,DK,Danimarka
-a,DM,Dominik
-a,DO,Dominik Cumhuriyeti
-a,TL,Doğu Timor
-a,EC,Ekvator
-a,GQ,Ekvator Ginesi
-a,SV,El Salvador
-a,ID,Endonezya
-a,ER,Eritre
-a,AM,Ermenistan
-a,EE,Estonya
-a,ET,Etiyopya
-a,FK,Falkland Adaları (Malvinalar)
-a,FO,Faroe Adaları
-a,MA,Fas
-a,FJ,Fiji
-a,CI,Fildişi Sahilleri
-a,PH,Filipinler
-a,PS,Filistin Bölgesi
-a,FI,Finlandiya
-a,FR,Fransa
-a,GF,Fransız Guyanası
-a,TF,Fransız Güney Bölgeleri
-a,PF,Fransız Polinezyası
-a,GA,Gabon
-a,GM,Gambia
-a,GH,Gana
-a,GN,Gine
-a,GW,Gine-Bissau
-a,GD,Granada
-a,GL,Grönland
-a,GP,Guadeloupe
-a,GU,Guam
-a,GT,Guatemala
-a,GG,Guernsey
-a,GY,Guyana
-a,ZA,Güney Afrika
-a,GS,Güney Georgia ve Güney Sandwich Adaları
-a,KR,Güney Kore
-a,CY,Güney Kıbrıs Rum Kesimi
-a,GE,Gürcistan
-a,HT,Haiti
-a,HM,Heard Adası ve McDonald Adaları
-a,IN,Hindistan
-a,IO,Hint Okyanusu İngiliz Bölgesi
-a,NL,Hollanda
-a,AN,Hollanda Antilleri
-a,HN,Honduras
-a,HK,Hong Kong SAR - Çin
-a,HR,Hırvatistan
-a,IQ,Irak
-a,VG,İngiliz Virgin Adaları
-a,IR,İran
-a,IE,İrlanda
-a,ES,İspanya
-a,IL,İsrail
-a,SE,İsveç
-a,CH,İsviçre
-a,IT,İtalya
-a,IS,İzlanda
-a,JM,Jamaika
-a,JP,Japonya
-a,JE,Jersey
-a,KH,Kamboçya
-a,CM,Kamerun
-a,CA,Kanada
-a,ME,Karadağ
-a,QA,Katar
-a,KY,Kayman Adaları
-a,KZ,Kazakistan
-a,KE,Kenya
-a,KI,Kiribati
-a,CO,Kolombiya
-a,KM,Komorlar
-a,CG,Kongo
-a,CD,Kongo Demokratik Cumhuriyeti
-a,CR,Kosta Rika
-a,KW,Kuveyt
-a,KP,Kuzey Kore
-a,MP,Kuzey Mariana Adaları
-a,CU,Küba
-a,KG,Kırgızistan
-a,LA,Laos
-a,LS,Lesotho
-a,LV,Letonya
-a,LR,Liberya
-a,LY,Libya
-a,LI,Liechtenstein
-a,LT,Litvanya
-a,LB,Lübnan
-a,LU,Lüksemburg
-a,HU,Macaristan
-a,MG,Madagaskar
-a,MO,Makao S.A.R. Çin
-a,MK,Makedonya
-a,MW,Malavi
-a,MV,Maldivler
-a,MY,Malezya
-a,ML,Mali
-a,MT,Malta
-a,IM,Man Adası
-a,MH,Marshall Adaları
-a,MQ,Martinik
-a,MU,Mauritius
-a,YT,Mayotte
-a,MX,Meksika
-a,FM,Mikronezya Federal Eyaletleri
-a,MD,Moldovya Cumhuriyeti
-a,MC,Monako
-a,MS,Montserrat
-a,MR,Moritanya
-a,MZ,Mozambik
-a,MN,Moğolistan
-a,MM,Myanmar
-a,EG,Mısır
-a,NA,Namibya
-a,NR,Nauru
-a,NP,Nepal
-a,NE,Nijer
-a,NG,Nijerya
-a,NI,Nikaragua
-a,NU,Niue
-a,NF,Norfolk Adası
-a,NO,Norveç
-a,CF,Orta Afrika Cumhuriyeti
-a,UZ,Özbekistan
-a,PK,Pakistan
-a,PW,Palau
-a,PA,Panama
-a,PG,Papua Yeni Gine
-a,PY,Paraguay
-a,PE,Peru
-a,PN,Pitcairn
-a,PL,Polonya
-a,PT,Portekiz
-a,PR,Porto Riko
-a,RE,Reunion
-a,RO,Romanya
-a,RW,Ruanda
-a,RU,Rusya Federasyonu
-a,SH,Saint Helena
-a,KN,Saint Kitts ve Nevis
-a,LC,Saint Lucia
-a,PM,Saint Pierre ve Miquelon
-a,VC,Saint Vincent ve Grenadinler
-a,WS,Samoa
-a,SM,San Marino
-a,ST,Sao Tome ve Principe
-a,SN,Senegal
-a,SC,Seyşeller
-a,SL,Sierra Leone
-a,SG,Singapur
-a,SK,Slovakya
-a,SI,Slovenya
-a,SB,Solomon Adaları
-a,SO,Somali
-a,LK,Sri Lanka
-a,SD,Sudan
-a,SR,Surinam
-a,SY,Suriye
-a,SA,Suudi Arabistan
-a,SJ,Svalbard ve Jan Mayen
-a,SZ,Svaziland
-a,RS,Sırbistan
-a,CS,Sırbistan-Karadağ
-a,CL,Şili
-a,TJ,Tacikistan
-a,TZ,Tanzanya
-a,TH,Tayland
-a,TW,Tayvan
-a,TG,Togo
-a,TK,Tokelau
-a,TO,Tonga
-a,TT,Trinidad ve Tobago
-a,TN,Tunus
-a,TC,Turks ve Caicos Adaları
-a,TV,Tuvalu
-a,TM,Türkmenistan
-a,UG,Uganda
-a,UA,Ukrayna
-a,OM,Umman
-a,UY,Uruguay
-a,QO,Uzak Okyanusya
-a,JO,Ürdün
-a,VU,Vanuatu
-a,VA,Vatikan
-a,VE,Venezuela
-a,VN,Vietnam
-a,WF,Wallis ve Futuna
-a,YE,Yemen
-a,NC,Yeni Kaledonya
-a,NZ,Yeni Zelanda
-a,GR,Yunanistan
-a,ZM,Zambiya
-a,ZW,Zimbabve
+a,TR,b
+a,VI,b
+a,AF,b
+a,AX,b
+a,DE,b
+a,US,b
+a,UM,b
+a,AS,b
+a,AD,b
+a,AO,b
+a,AI,b
+a,AQ,b
+a,AG,b
+a,AR,b
+a,AL,b
+a,AW,b
+a,QU,b
+a,AU,b
+a,AT,b
+a,AZ,b
+a,BS,b
+a,BH,b
+a,BD,b
+a,BB,b
+a,EH,b
+a,BZ,b
+a,BE,b
+a,BJ,b
+a,BM,b
+a,BY,b
+a,BT,b
+a,ZZ,b
+a,AE,b
+a,GB,b
+a,BO,b
+a,BA,b
+a,BW,b
+a,BV,b
+a,BR,b
+a,BN,b
+a,BG,b
+a,BF,b
+a,BI,b
+a,CV,b
+a,GI,b
+a,DZ,b
+a,CX,b
+a,DJ,b
+a,CC,b
+a,CK,b
+a,TD,b
+a,CZ,b
+a,CN,b
+a,DK,b
+a,DM,b
+a,DO,b
+a,TL,b
+a,EC,b
+a,GQ,b
+a,SV,b
+a,ID,b
+a,ER,b
+a,AM,b
+a,EE,b
+a,ET,b
+a,FK,b
+a,FO,b
+a,MA,b
+a,FJ,b
+a,CI,b
+a,PH,b
+a,PS,b
+a,FI,b
+a,FR,b
+a,GF,b
+a,TF,b
+a,PF,b
+a,GA,b
+a,GM,b
+a,GH,b
+a,GN,b
+a,GW,b
+a,GD,b
+a,GL,b
+a,GP,b
+a,GU,b
+a,GT,b
+a,GG,b
+a,GY,b
+a,ZA,b
+a,GS,b
+a,KR,b
+a,CY,b
+a,GE,b
+a,HT,b
+a,HM,b
+a,IN,b
+a,IO,b
+a,NL,b
+a,AN,b
+a,HN,b
+a,HK,b
+a,HR,b
+a,IQ,b
+a,VG,b
+a,IR,b
+a,IE,b
+a,ES,b
+a,IL,b
+a,SE,b
+a,CH,b
+a,IT,b
+a,IS,b
+a,JM,b
+a,JP,b
+a,JE,b
+a,KH,b
+a,CM,b
+a,CA,b
+a,ME,b
+a,QA,b
+a,KY,b
+a,KZ,b
+a,KE,b
+a,KI,b
+a,CO,b
+a,KM,b
+a,CG,b
+a,CD,b
+a,CR,b
+a,KW,b
+a,KP,b
+a,MP,b
+a,CU,b
+a,KG,b
+a,LA,b
+a,LS,b
+a,LV,b
+a,LR,b
+a,LY,b
+a,LI,b
+a,LT,b
+a,LB,b
+a,LU,b
+a,HU,b
+a,MG,b
+a,MO,b
+a,MK,b
+a,MW,b
+a,MV,b
+a,MY,b
+a,ML,b
+a,MT,b
+a,IM,b
+a,MH,b
+a,MQ,b
+a,MU,b
+a,YT,b
+a,MX,b
+a,FM,b
+a,MD,b
+a,MC,b
+a,MS,b
+a,MR,b
+a,MZ,b
+a,MN,b
+a,MM,b
+a,EG,b
+a,NA,b
+a,NR,b
+a,NP,b
+a,NE,b
+a,NG,b
+a,NI,b
+a,NU,b
+a,NF,b
+a,NO,b
+a,CF,b
+a,UZ,b
+a,PK,b
+a,PW,b
+a,PA,b
+a,PG,b
+a,PY,b
+a,PE,b
+a,PN,b
+a,PL,b
+a,PT,b
+a,PR,b
+a,RE,b
+a,RO,b
+a,RW,b
+a,RU,b
+a,SH,b
+a,KN,b
+a,LC,b
+a,PM,b
+a,VC,b
+a,WS,b
+a,SM,b
+a,ST,b
+a,SN,b
+a,SC,b
+a,SL,b
+a,SG,b
+a,SK,b
+a,SI,b
+a,SB,b
+a,SO,b
+a,LK,b
+a,SD,b
+a,SR,b
+a,SY,b
+a,SA,b
+a,SJ,b
+a,SZ,b
+a,RS,b
+a,CS,b
+a,CL,b
+a,TJ,b
+a,TZ,b
+a,TH,b
+a,TW,b
+a,TG,b
+a,TK,b
+a,TO,b
+a,TT,b
+a,TN,b
+a,TC,b
+a,TV,b
+a,TM,b
+a,UG,b
+a,UA,b
+a,OM,b
+a,UY,b
+a,QO,b
+a,JO,b
+a,VU,b
+a,VA,b
+a,VE,b
+a,VN,b
+a,WF,b
+a,YE,b
+a,NC,b
+a,NZ,b
+a,GR,b
+a,ZM,b
+a,ZW,b
