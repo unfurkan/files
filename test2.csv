@@ -1,249 +1,249 @@
-code,name
-TR,Türkiye
-VI,ABD Virgin Adaları
-AF,Afganistan
-AX,Aland Adaları
-DE,Almanya
-US,Amerika Birleşik Devletleri
-UM,Amerika Birleşik Devletleri Küçük Dış Adaları
-AS,Amerikan Samoası
-AD,Andora
-AO,Angola
-AI,Anguilla
-AQ,Antarktika
-AG,Antigua ve Barbuda
-AR,Arjantin
-AL,Arnavutluk
-AW,Aruba
-QU,Avrupa Birliği
-AU,Avustralya
-AT,Avusturya
-AZ,Azerbaycan
-BS,Bahamalar
-BH,Bahreyn
-BD,Bangladeş
-BB,Barbados
-EH,Batı Sahara
-BZ,Belize
-BE,Belçika
-BJ,Benin
-BM,Bermuda
-BY,Beyaz Rusya
-BT,Bhutan
-ZZ,Bilinmeyen veya Geçersiz Bölge
-AE,Birleşik Arap Emirlikleri
-GB,Birleşik Krallık
-BO,Bolivya
-BA,Bosna Hersek
-BW,Botsvana
-BV,Bouvet Adası
-BR,Brezilya
-BN,Brunei
-BG,Bulgaristan
-BF,Burkina Faso
-BI,Burundi
-CV,Cape Verde
-GI,Cebelitarık
-DZ,Cezayir
-CX,Christmas Adası
-DJ,Cibuti
-CC,Cocos Adaları
-CK,Cook Adaları
-TD,Çad
-CZ,Çek Cumhuriyeti
-CN,Çin
-DK,Danimarka
-DM,Dominik
-DO,Dominik Cumhuriyeti
-TL,Doğu Timor
-EC,Ekvator
-GQ,Ekvator Ginesi
-SV,El Salvador
-ID,Endonezya
-ER,Eritre
-AM,Ermenistan
-EE,Estonya
-ET,Etiyopya
-FK,Falkland Adaları (Malvinalar)
-FO,Faroe Adaları
-MA,Fas
-FJ,Fiji
-CI,Fildişi Sahilleri
-PH,Filipinler
-PS,Filistin Bölgesi
-FI,Finlandiya
-FR,Fransa
-GF,Fransız Guyanası
-TF,Fransız Güney Bölgeleri
-PF,Fransız Polinezyası
-GA,Gabon
-GM,Gambia
-GH,Gana
-GN,Gine
-GW,Gine-Bissau
-GD,Granada
-GL,Grönland
-GP,Guadeloupe
-GU,Guam
-GT,Guatemala
-GG,Guernsey
-GY,Guyana
-ZA,Güney Afrika
-GS,Güney Georgia ve Güney Sandwich Adaları
-KR,Güney Kore
-CY,Güney Kıbrıs Rum Kesimi
-GE,Gürcistan
-HT,Haiti
-HM,Heard Adası ve McDonald Adaları
-IN,Hindistan
-IO,Hint Okyanusu İngiliz Bölgesi
-NL,Hollanda
-AN,Hollanda Antilleri
-HN,Honduras
-HK,Hong Kong SAR - Çin
-HR,Hırvatistan
-IQ,Irak
-VG,İngiliz Virgin Adaları
-IR,İran
-IE,İrlanda
-ES,İspanya
-IL,İsrail
-SE,İsveç
-CH,İsviçre
-IT,İtalya
-IS,İzlanda
-JM,Jamaika
-JP,Japonya
-JE,Jersey
-KH,Kamboçya
-CM,Kamerun
-CA,Kanada
-ME,Karadağ
-QA,Katar
-KY,Kayman Adaları
-KZ,Kazakistan
-KE,Kenya
-KI,Kiribati
-CO,Kolombiya
-KM,Komorlar
-CG,Kongo
-CD,Kongo Demokratik Cumhuriyeti
-CR,Kosta Rika
-KW,Kuveyt
-KP,Kuzey Kore
-MP,Kuzey Mariana Adaları
-CU,Küba
-KG,Kırgızistan
-LA,Laos
-LS,Lesotho
-LV,Letonya
-LR,Liberya
-LY,Libya
-LI,Liechtenstein
-LT,Litvanya
-LB,Lübnan
-LU,Lüksemburg
-HU,Macaristan
-MG,Madagaskar
-MO,Makao S.A.R. Çin
-MK,Makedonya
-MW,Malavi
-MV,Maldivler
-MY,Malezya
-ML,Mali
-MT,Malta
-IM,Man Adası
-MH,Marshall Adaları
-MQ,Martinik
-MU,Mauritius
-YT,Mayotte
-MX,Meksika
-FM,Mikronezya Federal Eyaletleri
-MD,Moldovya Cumhuriyeti
-MC,Monako
-MS,Montserrat
-MR,Moritanya
-MZ,Mozambik
-MN,Moğolistan
-MM,Myanmar
-EG,Mısır
-NA,Namibya
-NR,Nauru
-NP,Nepal
-NE,Nijer
-NG,Nijerya
-NI,Nikaragua
-NU,Niue
-NF,Norfolk Adası
-NO,Norveç
-CF,Orta Afrika Cumhuriyeti
-UZ,Özbekistan
-PK,Pakistan
-PW,Palau
-PA,Panama
-PG,Papua Yeni Gine
-PY,Paraguay
-PE,Peru
-PN,Pitcairn
-PL,Polonya
-PT,Portekiz
-PR,Porto Riko
-RE,Reunion
-RO,Romanya
-RW,Ruanda
-RU,Rusya Federasyonu
-SH,Saint Helena
-KN,Saint Kitts ve Nevis
-LC,Saint Lucia
-PM,Saint Pierre ve Miquelon
-VC,Saint Vincent ve Grenadinler
-WS,Samoa
-SM,San Marino
-ST,Sao Tome ve Principe
-SN,Senegal
-SC,Seyşeller
-SL,Sierra Leone
-SG,Singapur
-SK,Slovakya
-SI,Slovenya
-SB,Solomon Adaları
-SO,Somali
-LK,Sri Lanka
-SD,Sudan
-SR,Surinam
-SY,Suriye
-SA,Suudi Arabistan
-SJ,Svalbard ve Jan Mayen
-SZ,Svaziland
-RS,Sırbistan
-CS,Sırbistan-Karadağ
-CL,Şili
-TJ,Tacikistan
-TZ,Tanzanya
-TH,Tayland
-TW,Tayvan
-TG,Togo
-TK,Tokelau
-TO,Tonga
-TT,Trinidad ve Tobago
-TN,Tunus
-TC,Turks ve Caicos Adaları
-TV,Tuvalu
-TM,Türkmenistan
-UG,Uganda
-UA,Ukrayna
-OM,Umman
-UY,Uruguay
-QO,Uzak Okyanusya
-JO,Ürdün
-VU,Vanuatu
-VA,Vatikan
-VE,Venezuela
-VN,Vietnam
-WF,Wallis ve Futuna
-YE,Yemen
-NC,Yeni Kaledonya
-NZ,Yeni Zelanda
-GR,Yunanistan
-ZM,Zambiya
-ZW,Zimbabve
+id,iso2,name
+a,TR,Türkiye
+a,VI,ABD Virgin Adaları
+a,AF,Afganistan
+a,AX,Aland Adaları
+a,DE,Almanya
+a,US,Amerika Birleşik Devletleri
+a,UM,Amerika Birleşik Devletleri Küçük Dış Adaları
+a,AS,Amerikan Samoası
+a,AD,Andora
+a,AO,Angola
+a,AI,Anguilla
+a,AQ,Antarktika
+a,AG,Antigua ve Barbuda
+a,AR,Arjantin
+a,AL,Arnavutluk
+a,AW,Aruba
+a,QU,Avrupa Birliği
+a,AU,Avustralya
+a,AT,Avusturya
+a,AZ,Azerbaycan
+a,BS,Bahamalar
+a,BH,Bahreyn
+a,BD,Bangladeş
+a,BB,Barbados
+a,EH,Batı Sahara
+a,BZ,Belize
+a,BE,Belçika
+a,BJ,Benin
+a,BM,Bermuda
+a,BY,Beyaz Rusya
+a,BT,Bhutan
+a,ZZ,Bilinmeyen veya Geçersiz Bölge
+a,AE,Birleşik Arap Emirlikleri
+a,GB,Birleşik Krallık
+a,BO,Bolivya
+a,BA,Bosna Hersek
+a,BW,Botsvana
+a,BV,Bouvet Adası
+a,BR,Brezilya
+a,BN,Brunei
+a,BG,Bulgaristan
+a,BF,Burkina Faso
+a,BI,Burundi
+a,CV,Cape Verde
+a,GI,Cebelitarık
+a,DZ,Cezayir
+a,CX,Christmas Adası
+a,DJ,Cibuti
+a,CC,Cocos Adaları
+a,CK,Cook Adaları
+a,TD,Çad
+a,CZ,Çek Cumhuriyeti
+a,CN,Çin
+a,DK,Danimarka
+a,DM,Dominik
+a,DO,Dominik Cumhuriyeti
+a,TL,Doğu Timor
+a,EC,Ekvator
+a,GQ,Ekvator Ginesi
+a,SV,El Salvador
+a,ID,Endonezya
+a,ER,Eritre
+a,AM,Ermenistan
+a,EE,Estonya
+a,ET,Etiyopya
+a,FK,Falkland Adaları (Malvinalar)
+a,FO,Faroe Adaları
+a,MA,Fas
+a,FJ,Fiji
+a,CI,Fildişi Sahilleri
+a,PH,Filipinler
+a,PS,Filistin Bölgesi
+a,FI,Finlandiya
+a,FR,Fransa
+a,GF,Fransız Guyanası
+a,TF,Fransız Güney Bölgeleri
+a,PF,Fransız Polinezyası
+a,GA,Gabon
+a,GM,Gambia
+a,GH,Gana
+a,GN,Gine
+a,GW,Gine-Bissau
+a,GD,Granada
+a,GL,Grönland
+a,GP,Guadeloupe
+a,GU,Guam
+a,GT,Guatemala
+a,GG,Guernsey
+a,GY,Guyana
+a,ZA,Güney Afrika
+a,GS,Güney Georgia ve Güney Sandwich Adaları
+a,KR,Güney Kore
+a,CY,Güney Kıbrıs Rum Kesimi
+a,GE,Gürcistan
+a,HT,Haiti
+a,HM,Heard Adası ve McDonald Adaları
+a,IN,Hindistan
+a,IO,Hint Okyanusu İngiliz Bölgesi
+a,NL,Hollanda
+a,AN,Hollanda Antilleri
+a,HN,Honduras
+a,HK,Hong Kong SAR - Çin
+a,HR,Hırvatistan
+a,IQ,Irak
+a,VG,İngiliz Virgin Adaları
+a,IR,İran
+a,IE,İrlanda
+a,ES,İspanya
+a,IL,İsrail
+a,SE,İsveç
+a,CH,İsviçre
+a,IT,İtalya
+a,IS,İzlanda
+a,JM,Jamaika
+a,JP,Japonya
+a,JE,Jersey
+a,KH,Kamboçya
+a,CM,Kamerun
+a,CA,Kanada
+a,ME,Karadağ
+a,QA,Katar
+a,KY,Kayman Adaları
+a,KZ,Kazakistan
+a,KE,Kenya
+a,KI,Kiribati
+a,CO,Kolombiya
+a,KM,Komorlar
+a,CG,Kongo
+a,CD,Kongo Demokratik Cumhuriyeti
+a,CR,Kosta Rika
+a,KW,Kuveyt
+a,KP,Kuzey Kore
+a,MP,Kuzey Mariana Adaları
+a,CU,Küba
+a,KG,Kırgızistan
+a,LA,Laos
+a,LS,Lesotho
+a,LV,Letonya
+a,LR,Liberya
+a,LY,Libya
+a,LI,Liechtenstein
+a,LT,Litvanya
+a,LB,Lübnan
+a,LU,Lüksemburg
+a,HU,Macaristan
+a,MG,Madagaskar
+a,MO,Makao S.A.R. Çin
+a,MK,Makedonya
+a,MW,Malavi
+a,MV,Maldivler
+a,MY,Malezya
+a,ML,Mali
+a,MT,Malta
+a,IM,Man Adası
+a,MH,Marshall Adaları
+a,MQ,Martinik
+a,MU,Mauritius
+a,YT,Mayotte
+a,MX,Meksika
+a,FM,Mikronezya Federal Eyaletleri
+a,MD,Moldovya Cumhuriyeti
+a,MC,Monako
+a,MS,Montserrat
+a,MR,Moritanya
+a,MZ,Mozambik
+a,MN,Moğolistan
+a,MM,Myanmar
+a,EG,Mısır
+a,NA,Namibya
+a,NR,Nauru
+a,NP,Nepal
+a,NE,Nijer
+a,NG,Nijerya
+a,NI,Nikaragua
+a,NU,Niue
+a,NF,Norfolk Adası
+a,NO,Norveç
+a,CF,Orta Afrika Cumhuriyeti
+a,UZ,Özbekistan
+a,PK,Pakistan
+a,PW,Palau
+a,PA,Panama
+a,PG,Papua Yeni Gine
+a,PY,Paraguay
+a,PE,Peru
+a,PN,Pitcairn
+a,PL,Polonya
+a,PT,Portekiz
+a,PR,Porto Riko
+a,RE,Reunion
+a,RO,Romanya
+a,RW,Ruanda
+a,RU,Rusya Federasyonu
+a,SH,Saint Helena
+a,KN,Saint Kitts ve Nevis
+a,LC,Saint Lucia
+a,PM,Saint Pierre ve Miquelon
+a,VC,Saint Vincent ve Grenadinler
+a,WS,Samoa
+a,SM,San Marino
+a,ST,Sao Tome ve Principe
+a,SN,Senegal
+a,SC,Seyşeller
+a,SL,Sierra Leone
+a,SG,Singapur
+a,SK,Slovakya
+a,SI,Slovenya
+a,SB,Solomon Adaları
+a,SO,Somali
+a,LK,Sri Lanka
+a,SD,Sudan
+a,SR,Surinam
+a,SY,Suriye
+a,SA,Suudi Arabistan
+a,SJ,Svalbard ve Jan Mayen
+a,SZ,Svaziland
+a,RS,Sırbistan
+a,CS,Sırbistan-Karadağ
+a,CL,Şili
+a,TJ,Tacikistan
+a,TZ,Tanzanya
+a,TH,Tayland
+a,TW,Tayvan
+a,TG,Togo
+a,TK,Tokelau
+a,TO,Tonga
+a,TT,Trinidad ve Tobago
+a,TN,Tunus
+a,TC,Turks ve Caicos Adaları
+a,TV,Tuvalu
+a,TM,Türkmenistan
+a,UG,Uganda
+a,UA,Ukrayna
+a,OM,Umman
+a,UY,Uruguay
+a,QO,Uzak Okyanusya
+a,JO,Ürdün
+a,VU,Vanuatu
+a,VA,Vatikan
+a,VE,Venezuela
+a,VN,Vietnam
+a,WF,Wallis ve Futuna
+a,YE,Yemen
+a,NC,Yeni Kaledonya
+a,NZ,Yeni Zelanda
+a,GR,Yunanistan
+a,ZM,Zambiya
+a,ZW,Zimbabve
