@@ -1,4 +1,4 @@
-id,iso2,name
+id,name,iso2
 a,TR,Türkiye
 a,VI,ABD Virgin Adaları
 a,AF,Afganistan
@@ -246,4 +246,11 @@ a,NC,Yeni Kaledonya
 a,NZ,Yeni Zelanda
 a,GR,Yunanistan
 a,ZM,Zambiya
-a,ZW,Zimbabve
+a,ZW,Zimbabve 
+
+
+
+
+
+
+
